@@ -1,3 +1,8 @@
+This is my study repo.
+Javascript based with complete comments
+Trying to learn code?
+Why not learn by reading within it?
+
 This is my notes file
 
 Fundamentals
