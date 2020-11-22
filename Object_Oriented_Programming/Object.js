@@ -1,3 +1,5 @@
+// Everything in Javascript is an object
+
 // Object Literal
 let SpecificNinja = {
   first_name : "Bruce",

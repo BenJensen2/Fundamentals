@@ -1,6 +1,6 @@
 // OBJECTS are an unordered collection of related data, 
-//of primitive or reference types, in the form of "key:value" pairs
-
+// of primitive or reference types, in the form of "key:value" pairs
+// Everything in Javascript is an object
 
 const object = {
   'One': 1,
