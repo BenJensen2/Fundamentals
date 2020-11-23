@@ -110,7 +110,7 @@ linkedList.insertAtBack(3);
 // linkedList.display();
 
 
-// TO BE COPIED
+/* TO BE COPIED
 
 class Node {
   constructor(data) {
@@ -187,6 +187,6 @@ class SinglyLinkedList {
 // console.log("\n");
 // linkedList.display();
 
-// END COPY
+ END COPY */
 
 module.exports = { linkedList };

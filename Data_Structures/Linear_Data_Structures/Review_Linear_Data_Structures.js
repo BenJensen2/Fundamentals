@@ -5,6 +5,7 @@ function linearDataStructures() {
   const { object } = require("./Object.js");
   const { fillStack, emptyStack } = require("./Stack.js");
   const { enqueue, dequeue } = require("./Queue.js");
+  const { displayTestMap } = require("./Map.js");
   const util = require('util')
   const { linkedList } = require("./Linked_List/Singly_Linked_List.js");
   const { doublyLinkedList } = require("./Linked_List/Doubly_Linked_List.js");
@@ -39,6 +40,10 @@ function linearDataStructures() {
 
   console.log("\nThis shows the operation of a queue:");
   dequeue(enqueue());
+
+  console.log("\n - Maps\n");
+  console.log("A map is a collection of elements where each element is stored as a Key, Value pair where both the key and value can hold both objects and primitive values.");
+  displayTestMap()
 
   console.log("\n - Linked Lists\n");
   console.log("A linked list is a linear data structure, in which the elements are not stored at contiguous memory locations. The elements in a linked list are linked using pointers")
