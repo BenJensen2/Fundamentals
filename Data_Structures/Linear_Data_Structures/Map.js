@@ -140,3 +140,6 @@ Cannot clear all elements at once.
 Cannot check the size of a WeakMap. */
 
 module.exports = { displayTestMap };
+
+
+// References https://www.javascripttutorial.net/es6/javascript-map/

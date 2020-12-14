@@ -8,6 +8,7 @@ This is my notes file
 Fundamentals
  - Built-In Functions
  - Data Structures
+   - Graphs
    - Hierarchical Data Structures
    - Linear Data Structures
  - Data Types
