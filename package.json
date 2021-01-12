@@ -1,0 +1,26 @@
+{
+  "name": "fundamentals",
+  "version": "1.0.0",
+  "description": "Fundamental Programming Topics",
+  "main": "Server/server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "console.log(\"Test Command\")"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenJensen2/Fundamentals.git"
+  },
+  "keywords": [
+    "Jesus"
+  ],
+  "author": "Ben Jensen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BenJensen2/Fundamentals/issues"
+  },
+  "homepage": "https://github.com/BenJensen2/Fundamentals#readme"
+}
