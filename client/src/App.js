@@ -1,13 +1,13 @@
 import logo from "./logo.svg";
 import "./App.css";
 import { Router } from "@reach/router";
-import Lessons from "./Lessons/Lessons";
-import Data_Types from "./Lessons/Data_Types/Data_Types";
-import BooleanType from "./Lessons/Data_Types/BooleanType";
-import CharacterType from "./Lessons/Data_Types/CharacterType";
-import FloatType from "./Lessons/Data_Types/FloatType";
-import IntegerType from "./Lessons/Data_Types/IntegerType";
-import StringType from "./Lessons/Data_Types/StringType";
+import Lessons from "./views/Lessons/Lessons";
+import Data_Types from "./views/Lessons/Data_Types/Data_Types";
+import BooleanType from "./views/Lessons/Data_Types/BooleanType";
+import CharacterType from "./views/Lessons/Data_Types/CharacterType";
+import FloatType from "./views/Lessons/Data_Types/FloatType";
+import IntegerType from "./views/Lessons/Data_Types/IntegerType";
+import StringType from "./views/Lessons/Data_Types/StringType";
 
 function App() {
   return (
