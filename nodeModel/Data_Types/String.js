@@ -1,4 +1,4 @@
-// Strings: Set of characters that can also contain spaces and numbers
+// STRING: Set of characters that can also contain spaces and numbers
 //  - Immutable
 //  - .length
 //  - Indexable
