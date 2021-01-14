@@ -12,6 +12,7 @@ const Data_Types = (props) => {
         <li> <a href="/Lessons/Data_Types/IntegerType"> Integer </a></li>
         <li> <a href="/Lessons/Data_Types/StringType"> String </a></li>
       </ul>
+      <a href="/Lessons/Data_Types/Review_Data_Types">Review Data Types</a>
     </div>
   )
 }
