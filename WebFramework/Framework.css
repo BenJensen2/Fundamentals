@@ -1,0 +1,74 @@
+
+/* Zero out all margins & Padding */
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+/* .container{
+
+} */
+
+.navbar{
+  border: 10px solid purple;
+}
+
+.top-nav{
+  border: 5px solid red;
+  width: 100%;
+  /* Flex Nav locations */
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-left,.nav-center,.nav-right{
+  display: inline-block;
+  border-width: 1px;
+  border-style: dashed;
+  text-align: center;
+  font-size: 44px;
+  width: 33%;
+}
+
+.nav-left{
+  border-color: blue;
+}
+
+.nav-center{
+border-color: greenyellow;
+
+}
+
+.nav-right{
+ border-color: orange;
+}
+
+
+.header{
+  border: 1px solid green;
+  width: 100vw;
+  height: 100px;
+}
+
+
+
+.navmenu{
+  vertical-align: top;
+  display: inline-block;
+  border: 1px solid pink;
+  width: 200px;
+  height: 400px;
+}
+
+.content{
+  display: inline-block;
+  border: 1px solid blue;
+  width: 700px;
+  height: 700px;
+}
+
+.footer{
+  border: 1px solid green;
+  width: 100vw;
+  height: 100px;
+}

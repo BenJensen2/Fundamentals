@@ -8,9 +8,9 @@ const Data_Types = (props) => {
       <ul>
         <li> <a href="/Lessons/Data_Types/BooleanType"> Boolean </a></li>
         <li> <a href="/Lessons/Data_Types/CharacterType"> Character </a></li>
-        <li> <a href="/Lessons/Data_Types/FloatType"> Float </a></li>
-        <li> <a href="/Lessons/Data_Types/IntegerType"> Integer </a></li>
         <li> <a href="/Lessons/Data_Types/StringType"> String </a></li>
+        <li> <a href="/Lessons/Data_Types/IntegerType"> Integer </a></li>
+        <li> <a href="/Lessons/Data_Types/FloatType"> Float </a></li>
       </ul>
       <a href="/Lessons/Data_Types/Review_Data_Types">Review Data Types</a>
     </div>
